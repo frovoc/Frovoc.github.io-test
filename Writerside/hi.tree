@@ -5,8 +5,9 @@
 <instance-profile id="hi" name="EveryAi"
                  start-page="EveryAi.md">
 
-    <toc-element topic="EveryAi.md"/>
     <toc-element topic="BedRock.md">
         <toc-element topic="环境配置.md"/>
     </toc-element>
+    <toc-element topic="FAQ相关问题.md"/>
+    <toc-element topic="EveryAi.md"/>
 </instance-profile>
