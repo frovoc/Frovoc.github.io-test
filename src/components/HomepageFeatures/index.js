@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '工路快聘直播课',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        工路快聘直播课专为新经纪人设计，在这里你可以学习到最新的抖音直播课程与知识，关注到最新的抖音直播资讯及问题总结，迅速成长为直播达人
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '工路快聘交付课',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+          工路快聘 为所有加入的经纪人提供长期培训，旨在提升所有交付伙伴的交付成功率，并为求职者提供规范，便捷，真实，高效的服务。
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '加入工路快聘',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+          如果您选择加入工路快聘，您收获的不仅是一份工作，而是一份可以长期坚持并且越做越大的事业。
       </>
     ),
   },
