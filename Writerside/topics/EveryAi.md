@@ -1,4 +1,0 @@
-# EveryAi
-
-Start typing here...
-
